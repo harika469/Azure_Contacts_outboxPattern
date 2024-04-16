@@ -1,0 +1,6 @@
+﻿**/bin/**
+.idea/**
+**/obj/**
+*.sln.DotSettings.user
+**/publish
+.vs/**
